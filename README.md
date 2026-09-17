@@ -7,6 +7,7 @@
 ### Часть 1. С++
 
 * [С++ Быстрый старт](lecture_1/L1_Cpp_fast_start.pptx)
+* [С++ Алгоритмы и структуры данных](lecture_2/L2_Cpp_data_structures.pptx)
 
 ## Полезные ссылки
 
